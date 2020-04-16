@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-16T17:21:49.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="JWRpRRC4yO8Mc2px_M71" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-16T17:38:37.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="yUDa_yZtvS98LESeYovY" version="12.9.12" type="github">
   <diagram id="6RGJtID552MHEYvlB7BP" name="Page-1">
-    <mxGraphModel dx="2310" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2310" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -264,7 +264,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ofboGT_3CxSdNvLx7bcA-18" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Conditions initiales&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ofboGT_3CxSdNvLx7bcA-18" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Fin de cycle de production&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-28" y="-610" width="148" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ofboGT_3CxSdNvLx7bcA-19" value="" style="endArrow=none;html=1;" edge="1" parent="1">
