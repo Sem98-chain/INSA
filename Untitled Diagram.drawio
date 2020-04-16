@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-16T17:00:59.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="XDxqy3wuR_uvFBkiSqPq" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-16T17:11:18.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="NB2h9NG1UGsNpQIpqwby" version="12.9.12" type="github">
   <diagram id="6RGJtID552MHEYvlB7BP" name="Page-1">
     <mxGraphModel dx="2310" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
         <mxCell id="pG-HJHoj7xEh51rD5Gyk-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="pG-HJHoj7xEh51rD5Gyk-8" vertex="1">
           <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pG-HJHoj7xEh51rD5Gyk-20" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;X0&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pG-HJHoj7xEh51rD5Gyk-8" vertex="1">
+        <mxCell id="pG-HJHoj7xEh51rD5Gyk-20" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;0&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pG-HJHoj7xEh51rD5Gyk-8" vertex="1">
           <mxGeometry x="20" y="30" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pG-HJHoj7xEh51rD5Gyk-28" value="" style="endArrow=none;html=1;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="pG-HJHoj7xEh51rD5Gyk-7" edge="1">
@@ -272,6 +272,9 @@
             <mxPoint x="813.5" y="-655.11" as="sourcePoint" />
             <mxPoint x="862.5" y="-655.11" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ofboGT_3CxSdNvLx7bcA-20" value="&lt;font style=&quot;font-size: 16px&quot;&gt;A1 et A4 : Système initialement à l&#39;arrêt ou système arrêté en fin de cycle&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-1085" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
